@@ -1,0 +1,1 @@
+# objection-soft-delete-plugin
